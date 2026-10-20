@@ -1,0 +1,7 @@
+Left Outer: 10 rows. All enrollment rows + matching course details.
+
+Inner: 9 rows. Only enrollment rows with matching course codes.
+
+Full Outer: 11 rows. All enrollment and course records + including unmatched records.
+
+Left Anti: 1 row. Enrollment rows with no course codes matching course.
